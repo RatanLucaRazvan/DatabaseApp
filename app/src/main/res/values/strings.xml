@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SQLiteApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="switch_string">Active Customer</string>
+    <string name="name_text_edit_hint">Customer Name</string>
+    <string name="age_text_edit_hint">Age</string>
+    <string name="view_button_text">VIEW ALL</string>
+    <string name="add_button_text">ADD</string>
+    <string name="DELETE">DELETE</string>
+    <string name="UPDATE">UPDATE</string>
+</resources>
